@@ -9,8 +9,8 @@ spring:
   jpa:
     show-sql: false
     generate-ddl: false
-product:
-    defaultCategory: fashion
+#product:
+#    defaultCategory: fashion
 eureka:
     client:
         register-with-eureka: true
